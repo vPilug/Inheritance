@@ -1,3 +1,5 @@
+package inheritance.animal;
+
 public class Fish extends Animal {
 
     private int gills;

@@ -1,3 +1,9 @@
+package inheritance.animal;
+
+import inheritance.animal.Animal;
+import inheritance.animal.Dog;
+import inheritance.animal.Fish;
+
 public class Main {
     public static void main(String[] args) {
 

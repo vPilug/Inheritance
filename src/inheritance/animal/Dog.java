@@ -1,3 +1,7 @@
+package inheritance.animal;
+
+import inheritance.animal.Animal;
+
 public class Dog extends Animal {
 
     private String earShape;
